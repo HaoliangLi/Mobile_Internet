@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LiHaoliang18</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="action_settings">提交作业</string>
+    <string name="txtPkg_Hint">有什么新鲜事。。。</string>
+    <string name="btnPost_name">发布</string>
+    <string name="package_name">包名: cn.edu.zju.id21732134.lihaoliang18</string>
+    <string name="txtCount_num">140</string>
+    <string name="send_blog">发布微博</string>
+    <string name="calculator">计算器</string>
+
+    <string name="username">用户名</string>
+    <string name="username_hint">请输入微博用户名</string>
+    <string name="password">密码</string>
+    <string name="password_hint">微博密码</string>
+    <string name="interval">更新周期</string>
+    <string name="interval_hint">微博一览更新时间(秒)</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="file_write_test">文件测试</string>
+</resources>
